@@ -1,4 +1,4 @@
-# Spotify-Postgre SQL _Data Analysis
+# Spolify-Postgre SQL _Data Analysis
 
 This  project aims to assist the Spotify Digital Music Store in </br>
 optimizing business opportunities and addressing various business-related questions. 
