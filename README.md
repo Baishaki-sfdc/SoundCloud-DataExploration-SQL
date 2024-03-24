@@ -1,8 +1,7 @@
 # Spotify-Postgre SQL _Data Analysis
 
- Data Analysis project to help Spotify Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
-
-countries with most invoices
-city with best customers
-finding out who the best customer is
-etc.
+This data analysis project aims to assist the Spotify Digital Music Store in 
+optimizing business opportunities and addressing various business-related questions. This includes
+identifying countries with the highest number of invoices, </br>
+determining the city with the best customers, </br>
+and identifying the top customer."
