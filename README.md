@@ -1,5 +1,5 @@
 ## SoundCloud-SQL-CaseStudy
-# Tool:
+### Tool:
 PostgreSQL
 
 This  project aims to assist the SoundCloud Digital Music Store in </br>
